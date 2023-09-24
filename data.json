@@ -1,0 +1,24 @@
+[
+  {
+    "name": "apple",
+    "description": "Red Fruit",
+    "objectID": "1",
+    "imageURL": "https://www.istockphoto.com/photo/red-apple-gm184276818-17092601"
+  },
+  
+  {
+    "name": "bananna",
+    "description": "yellow vegetable",
+    "objectID": "2",
+    "imageURL": "https://www.istockphoto.com/photo/red-apple-gm184276818-17092601"
+  },
+  
+  {
+    "name": "appetizer",
+    "description": "Roo",
+    "objectID": "3",
+    "imageURL": "https://www.istockphoto.com/photo/red-apple-gm184276818-17092601"
+  }
+]
+  
+  
